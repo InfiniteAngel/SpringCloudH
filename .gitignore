@@ -1,0 +1,7 @@
+# 项目排除路径
+/cloud-api-common/target/
+/cloud-consumer-order80/target/
+/cloud-eureka-server7001/target/
+/cloud-eureka-server7002/target/
+/cloud-provider-payment8001/target/
+/cloud-provider-payment8002/target/
